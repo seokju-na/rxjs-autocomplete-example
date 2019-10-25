@@ -1,0 +1,22 @@
+{
+  "name": "rxjs-autocomplete-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Seokju Na",
+    "email": "seokju.me@gmail.com"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.0",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  }
+}
